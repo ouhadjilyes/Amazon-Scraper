@@ -3,7 +3,7 @@ A large scale amazon scraper that scrapes products using ISBNs.
 
 ---------------------------------------------------------------------------------------------------------
 
-# Download 
+# Installation 
 
    - First signup for a free trial on https://www.webscrapingapi.com/ and get the API KEY 
    - Then run these comnands to both clone and run the program
